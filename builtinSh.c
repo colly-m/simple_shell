@@ -133,7 +133,7 @@ int builtin_help(data_sh *data)
 }
 
 /**
- * getz_builtin_alias - function add, remove or show aliases
+ * builtin_alias - function add, remove or show aliases
  * @data: pointer to struct data
  * Return: 0 (success), or other number declared in the arguments
  */
